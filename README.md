@@ -2,7 +2,7 @@
 
 Compact CNN for 4-class motor imagery BCI (22ch EEG, 128Hz, 2s epochs).
 
-![Architecture](model.jpg)
+![Architecture](model.png)
 
 ## Performance
 | Split | Accuracy |
